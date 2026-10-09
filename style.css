@@ -1,0 +1,16 @@
+body{
+    background-color: blueviolet;
+    color:white;
+}
+div{
+    text-align:center;
+}
+button{
+    color:purple;
+}
+button:hover{
+    background-color:pink;
+    border-radius:30px;
+    border:solid palevioletred;
+
+}
